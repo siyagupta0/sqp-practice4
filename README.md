@@ -52,7 +52,7 @@ It demonstrates how SQL can be used to extract and analyze useful business insig
 
 ## Files Included
 
-- `sales_analysis_queries.sql` – contains all SQL queries used  
+- `sales_analysis_queries1.sql` – contains all SQL queries used  
 - `README.md` – explains the purpose and usage of the project
 
 ---
